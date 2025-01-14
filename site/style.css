@@ -1,0 +1,78 @@
+.main{
+background: #1C306F;
+width: 375px;
+height: 655px;
+padding:20px;
+}
+body{
+	background-color: black;	
+
+}
+
+
+.tx{
+color: black;
+font-family: Stolzl;
+font-size: 36px;
+font-weight: 500;
+line-height: 44px;
+text-align: left;
+margin-top:30px;
+padding-top:20px; 
+
+}
+.tx-ar{
+color:black
+
+
+font-family: Stolzl;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+margin-top:15px:
+}
+.bg {
+background-image: url("../img/bg.jpg");
+background-size: cover; /*сохранение пропорций*/
+}
+section#intro-header .wrap-headline {
+position: relative; /*позиционирование фона*/
+padding-top: 20%;
+padding-bottom: 20%;
+}
+section#intro-header hl, section#intro-header h2 {
+color: #FFF;
+}
+section#intro-header h2 {
+font-size: 1.5rem;
+}
+
+}
+section#intro-header .btn-default {
+background-color: rgba(255, 255, 255, 0.5);
+border: none;
+}
+.max2{
+	height:870px;
+}
+body{
+	margin: 10px auto;	
+}
+
+
+.pb{
+color:blue;
+}
+
+
+.pad{
+	padding: 100px;
+}
+
+
+ #mar {
+margin: 10px auto;
+padding: 10px 30px 10px 20px;
+
+}
