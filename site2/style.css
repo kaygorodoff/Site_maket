@@ -1,0 +1,151 @@
+/* Строка 2 */
+html{
+	margin: 0;
+	padding: 0;
+	background-color: #F1F0EB;
+
+}
+
+.bg {
+background-image: url("img/bg.png") ;
+background-size: cover; /*сохранение пропорций*/
+background-repeat: no-repeat;
+background-size: 100%;
+
+
+}
+section#intro-header .wrap-headline {c
+position: relative; /*позиционирование фона*/
+padding-top: 25%;
+padding-bottom: 25%;
+}
+section#intro-header hl, section#intro-header h2 {
+color: white;
+}
+section#intro-header h2 {
+font-size: 1.5rem;
+}
+hr { /* линия по центру */
+margin-left: auto;
+margin-right: auto;
+width: 10%;
+}
+section#intro-header .btn-default {
+background-color: white;
+}
+
+.colm{
+	color: white;
+	padding-left: 5%;
+}
+
+.block1{
+background-image: url("img/Rectangle 1.png");
+background-size: cover; /*сохранение пропорций*/
+background-repeat: no-repeat;
+background-position:center;
+color: white; /* Цвет текста */
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 5px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+position: relative; 
+height: 636px;
+}
+.block2{
+background-image: url("img/Rectangle 2.png");
+background-size: cover; /*сохранение пропорций*/
+background-repeat: no-repeat;
+background-position:center;
+color: white; /* Цвет текста */
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 5px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+position: relative; 
+height: 308px;
+}
+.block3{
+background-image: url("img/Rectangle 3.png");
+background-size: cover; /*сохранение пропорций*/
+background-repeat: no-repeat;
+background-position:center;
+color: white; /* Цвет текста */
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 5px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+position: relative; 
+height: 308px;
+}
+.ritht {
+padding-right: 0;
+
+}
+.left{
+padding-left:0;
+}
+.mar{
+margin-top: 30px;
+
+}
+.mar70{
+margin-top: 70px;
+
+}
+.ras{
+font-size: 0.9rem;
+padding-right: 10px;
+}
+.bor{
+border: 1px solid gray;
+border-radius: 15px;
+
+}
+
+.rith{
+margin-right: 5px !important;
+}
+.lef{
+margin-left: 5px !important;
+}
+
+.but{
+bottom: 20px;
+right: 20px;
+}
+
+
+.but-pad{
+margin-bottom:12px;
+}
+.mar100{
+margin-top: 140px;
+}
+.bag{
+background-image: url("img/cv.png") ;
+background-size: cover; /*сохранение пропорций*/
+position: relative;
+height: 600px;
+color: white;
+}
+.content{
+position: absolute;
+bottom: 20px;
+left: 0;
+right: 0;
+
+}
+.maz{
+border:;
+border-radius: 15px;
+background: #FFFFFF;
+opacity: 0.7;
+
+
+}
+.bl{
+color: black;
+}
+
+
